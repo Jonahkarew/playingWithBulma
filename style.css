@@ -3,3 +3,11 @@ body {
     background-color: azure;
     height: 100vh;
 }
+
+h3{
+    margin-left: 2rem;
+}
+
+.navbar-brand{
+    margin-left: 2rem;
+}
